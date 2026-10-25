@@ -46,7 +46,7 @@ Only the strategy reference changes; the Context object is not recreated.
 
 ## 2. UML Class Diagram
 
-![UML class diagram for Calculator Strategy Pattern](C:\Users\ulllz\Documents\GitHub\strategy_pattern_calc\diagram.png)
+![UML class diagram for Calculator Strategy Pattern](https://raw.githubusercontent.com/httpskwiksx/strategy_pattern_calc/main/docs/strategy-uml.png)
 
 > The UML image is hosted in the GitHub repository (`docs/strategy-uml.png`). It will be accessible after the report and image have been pushed to `main`.
 
