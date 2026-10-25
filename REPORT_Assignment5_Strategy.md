@@ -47,9 +47,6 @@ Only the strategy reference changes; the Context object is not recreated.
 ## 2. UML Class Diagram
 
 ![Strategy Pattern UML](docs/strategy-uml.png)
-
-> The UML image is hosted in the GitHub repository (`docs/strategy-uml.png`). It will be accessible after the report and image have been pushed to `main`.
-
 *Figure 1. Class structure of the Strategy calculator.*
 
 The arrows labeled `creates` are **dependencies** from `Main` to `Calculator` and the concrete strategies. The `holds` arrow is an **association** from `Calculator` to `CalculationStrategy`. The three `implements` arrows are **realization** relationships from the concrete strategy classes to their shared interface.
